@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning JS
 - 📫 How to reach me ...
-- 📧 nurulhudda247@gmail.com
+- 📧 hello@nurulhudda.me
