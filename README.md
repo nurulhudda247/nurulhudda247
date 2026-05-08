@@ -5,6 +5,6 @@
 
 <div align="center">
 
-![Nurul](gitartwork.svg)
+![NURUL](gitartwork.svg)
 
 </div>
